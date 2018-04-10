@@ -1,3 +1,3 @@
 const d = 3;
 
-console.log( d + d );
+console.log( d * 2 );
