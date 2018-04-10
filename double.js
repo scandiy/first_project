@@ -1,3 +1,9 @@
 const d = 3;
 
-console.log( d * 2 );
+var b;
+
+b = "qwet";
+
+
+
+console.log( b + ' ' + (d * 2) );
