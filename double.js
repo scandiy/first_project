@@ -6,4 +6,4 @@ b = "qwet";
 
 
 
-console.log( b + ' ' + (d * 2) );
+console.log( b + ' ' + (d * 2) + "ОКЕ ну привет" );
